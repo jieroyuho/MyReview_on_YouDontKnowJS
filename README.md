@@ -2,4 +2,3 @@
 
 ### 第一章節 導讀
 
-Set up my home pc
