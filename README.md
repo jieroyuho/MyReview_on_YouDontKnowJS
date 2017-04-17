@@ -1,6 +1,7 @@
 ## 『你所不知道的JS』個人筆記
 
 ### 第一章節 導讀
+<<<<<<< HEAD
 +---------------------------------------+
 |                Results                |
 +---------------------------------------+
@@ -17,3 +18,4 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
